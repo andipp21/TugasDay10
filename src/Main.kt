@@ -57,6 +57,8 @@ fun main() {
     //3d sudah ada inputan data
     val arr2 = arrayOf(arrayOf(intArrayOf(1, 2), intArrayOf(3, 4)), arrayOf(intArrayOf(5, 6), intArrayOf(7, 8)))
 
+    //val arr[matrik][row][col]
+
     for (i in 0..1) {
         for (j in 0..1) {
             for (k in 0..1) {
